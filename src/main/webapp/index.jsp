@@ -21,8 +21,6 @@
 			return dt.format(new java.util.Date());
 			} 
 			%>
-			
-			
 				<c:set var="variavel" value="Primeira pagina JSP utilizando JST"/>
 				<c:out value="${variavel}"/>
 				<c:set var="formatar" value="true"/>
